@@ -1,0 +1,13 @@
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\bin\Debug\School.Domain.dll.config
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\bin\Debug\School.Domain.dll
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\bin\Debug\School.Domain.pdb
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\obj\Debug\School.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\obj\Debug\School.Domain.dll
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\obj\Debug\School.Domain.pdb
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\obj\Debug\School.Domain.Migrations.initial.resources
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\obj\Debug\School.Domain.csproj.GenerateResource.Cache
+C:\Users\Mido\Documents\Visual Studio 2015\Projects\School\School.Domain\obj\Debug\School.Domain.Migrations.addPropertiesToStudentTable.resources
